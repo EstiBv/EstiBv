@@ -14,7 +14,7 @@
 
 ➡️[Aquí podéis ver algunos [proyectos](https://www.behance.net/estibalizbarato) (#diseño)
 
-🤖 Los proyectos artísticos 🎨 que he desarrollado han estado relacionados con las TICs 💻 y como tutora comencé a introducir herramientas digitales 📱 en el aula, para complementar el aprendizaje del alumnado(en su mayoría adultos-jubilados) con recursos tanto analógicos como digitales. Me formé como #diseñadora [2019] y fue cuando descubrí la potencia y las posibilidades de la #programación.
+Los proyectos artísticos 🎨 que he desarrollado han estado relacionados con las TICs 💻 y como tutora comencé a introducir herramientas digitales 📱 en el aula, para complementar el aprendizaje del alumnado(en su mayoría adultos-jubilados) con recursos tanto analógicos como digitales. Me formé como #diseñadora [2019] y fue cuando descubrí la potencia y las posibilidades de la #programación.🤖
 
 ➡️[Aquí podéis ver algunos [proyectos](https://estibalizbarato.wixsite.com/estibalizbarato) (#plásticos)
 
@@ -23,3 +23,5 @@
 ```
 
 **_La programación complementa y enriquece mi trayectoria previa. Me he formado como desarrolladora front en Adalab donde he aprendido tanto a programar como a ser programadora._**
+
+➡️[Aquí podéis ver parte de mis [trayectoria](https://www.linkedin.com/in/estibalizbarato/)
