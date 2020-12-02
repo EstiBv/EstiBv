@@ -11,9 +11,11 @@ Conocer nuevas formas de pensar 💬 y de imaginar el mundo 🌎, me fascina ✨
 ```
 
 **_Dos de mis grandes pasiones son los proyectos educativos y los culturales, me siento comprometida con éstas áreas. Es por eso que decidí profundizar en las TICs (Tecnologías de la Información y Comunicación) para aprender e integrarlas con calidad en ambos sectores._** 👩🏼‍💻
+
 ➡️[Aquí podéis ver algunos [proyectos](https://www.behance.net/estibalizbarato) (#diseño)
 
 Los proyectos artísticos 🎨 que he desarrollado han estado relacionados con las TICs 💻 y como tutora comencé a introducir herramientas digitales 📱 en el aula, para complementar el aprendizaje del alumnado(en su mayoría adultos-jubilados) con recursos tanto analógicos como digitales. Me formé como #diseñadora [2019] y fue cuando descubrí la potencia y las posibilidades de la #programación.
+
 ➡️[Aquí podéis ver algunos [proyectos](https://estibalizbarato.wixsite.com/estibalizbarato) (#plásticos)
 
 ```
