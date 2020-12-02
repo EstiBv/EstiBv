@@ -1,10 +1,8 @@
 # Bienvenidxs a mi ruta!
 
-###### Soy Estíbaliz y con este ReadME pretendo:
+###### Soy Estíbaliz y éste es mi camino:
 
-- que me conozcáis un poquito 👋🏼
-- y si os animáis, acompañadme hasta lograr mi destino! 💪🏼
-  ![Ilustración digital-landscape](images/myRoute.png)
+![Ilustración digital-landscape](images/myRoute.png)
 
 ☝🏼 Desde muy joven empecé a compaginar el ⚒️ trabajo [2007] con mis 📚 estudios y desde entonces, así es. No dejo de adquirir experiencia y formación, me interesan otras áreas de conocimiento porque me aportan una visión mas global y otros puntos de vista. Soy una mujer #organizada y #persistente, gracias a ello disfruto mucho de combinar ambas tareas.
 
