@@ -4,7 +4,7 @@
 
 ![Ilustración digital-landscape](images/myRoute.png)
 
-###### (esta imagen la he desarrollado con AI (adobe illustrator) para aprender a manejarlo. La imagen original pertenece a @romainTrystram. Un ilustrador que admiro)
+###### Esta imagen la he creado con AI (adobe illustrator) para aprender a manejarlo. La original pertenece a @romainTrystram (un ilustrador que admiro)
 
 ☝🏼 Desde muy joven empecé a compaginar el ⚒️ trabajo [2007] con mis 📚 estudios y desde entonces, así es. No dejo de adquirir experiencia y formación, me interesan otras áreas de conocimiento porque me aportan una visión mas global y otros puntos de vista. Soy una mujer #organizada y #persistente, gracias a ello disfruto mucho de combinar ambas tareas.
 
