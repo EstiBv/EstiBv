@@ -18,7 +18,7 @@
 
 Los proyectos artísticos 🎨 que he desarrollado han estado relacionados con las TICs 💻 y como tutora comencé a introducir herramientas digitales 📱 en el aula, para complementar el aprendizaje del alumnado(en su mayoría adultos-jubilados) con recursos tanto analógicos como digitales. Me formé como #diseñadora [2019] y fue cuando descubrí la potencia y las posibilidades de la #programación.🤖
 
-➡️ Aquí podéis ver algunos [proyectos plásticos](https://estibalizbarato.wixsite.com/estibalizbarato) (#arte)
+➡️ Aquí podéis ver algunos [proyectos plásticos](en construcción) (#arte)
 
 ```
 🚀 Desde entonces no he parado de aprender e investigar 🤓. Mi primer contacto fue con Processing, me divertí y descubrí que se me daba bien 🥳. Aluciné con el compromiso de buena parte de la comunidad tecnológica, la generosidad para la divulgación, los proyectos tan creativos y pedagógicos que existen..y me cautivó. Desde entonces estoy enfocando mi trayectoria profesional hacia el sector tecnológico y aspiro a trabajar como desarrolladora front-end.
