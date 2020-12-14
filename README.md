@@ -2,7 +2,7 @@
 
 ###### Soy Estíbaliz y éste es mi camino:
 
-![Ilustración digital-landscape](images/myRoute.png)
+![Ilustración digital-landscape](images/myRoute.png=250x250)
 
 ###### Esta imagen la he creado con AI (adobe illustrator) para aprender a manejarlo. La original pertenece a @romainTrystram (un ilustrador que admiro)
 
