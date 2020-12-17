@@ -14,4 +14,4 @@ Me atrae aquello que me resulta diferente y así descubrí la **programación**,
 
 Decidí profundizar en las **TICs** 👩🏼‍💻 (Tecnologías de la Información y Comunicación) para aprender e integrarlas con calidad en ambos sectores y hacer proyectos que tengo en 🧠
 
-➡️ Aquí podéis ver parte de mis [trayectoria](https://www.linkedin.com/in/estibalizbarato/) (#linkedin)
+➡️ Aquí podéis ver parte de mi [trayectoria](https://www.linkedin.com/in/estibalizbarato/) (#linkedin)
