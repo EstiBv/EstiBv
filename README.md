@@ -1,30 +1,28 @@
-![greet-gitHub](https://user-images.githubusercontent.com/70572595/114310930-ea5f3700-9aec-11eb-83ae-79933ce7f591.png)
+![greet-gitHub](https://user-images.githubusercontent.com/70572595/114311901-ee8d5380-9af0-11eb-8829-0fa7f62cea26.png)
 
 ---
 
-<p class="text-center"> 
-💻 Trabajo como diseñadora web y me gusta mi trabajo 🙂 
-🏁 Mi objetivo laboral es dedicarme tanto al diseño como al **desarrollo web** 👈 
-</p>
-
-> > > <p class="text-right"> ✨ Me gusta conocer nuevas formas de pensar 💬 y de imaginar el mundo 🌎 que generen impactos positivos 🍀</p>
+> 💻 Trabajo como diseñadora web y me gusta mi trabajo 🙂
+>
+> > 🏁 Mi objetivo laboral es dedicarme tanto al diseño como al **desarrollo web** 👈
+> >
+> > > ✨ Me gusta conocer nuevas formas de pensar 💬 e imaginar el mundo 🌎 y más si generan impacto positivo 🍀</p>
 
 ---
 
 ```
-👐 Contacto
+🤝 medios de contacto
 ```
 
 - [![linkedin](https://user-images.githubusercontent.com/70572595/114311132-d9fb8c00-9aed-11eb-9eb0-6b16079ed84d.png) `linkedin`](https://www.linkedin.com/in/estibalizbarato/)
 - [![mail](https://user-images.githubusercontent.com/70572595/114311165-f13a7980-9aed-11eb-8968-425c4be59974.png) `mail`](mailto:estibalizbarato@gmail.com)
 - [![Recurso 43](https://user-images.githubusercontent.com/70572595/114311186-00b9c280-9aee-11eb-8051-b01b72716090.png) `behance`](https://www.behance.net/estibalizbarato)
 - [![surface1](https://user-images.githubusercontent.com/70572595/114311211-15965600-9aee-11eb-8c5f-8e08673d2fc9.png) `notion`](https://www.notion.so/Art-projects-exhibitions-350c578abdbd438dad69a0ab5d3a9548)
-- ![about](https://user-images.githubusercontent.com/70572595/114303597-38fdd880-9acf-11eb-894d-442b5a84f0bf.png) _portfolio en desarrollo_
 
 ---
 
 ```
-🚀 Tecnologías
+🚀 Éstas son las tecnologías que por ahora utilizo (y que continúo aprendiendo)
 ```
 
 ![html5-logo-24](https://user-images.githubusercontent.com/70572595/114308238-6eacbc80-9ae3-11eb-9b3f-eee2d09a38f9.png) ![css3-logo-24](https://user-images.githubusercontent.com/70572595/114308269-86844080-9ae3-11eb-9ca6-0640bd45f93c.png) ![sass-logo-24](https://user-images.githubusercontent.com/70572595/114308411-2a6dec00-9ae4-11eb-89c7-c4a9710247e3.png) ![bootstrap-logo-24](https://user-images.githubusercontent.com/70572595/114308463-6ef98780-9ae4-11eb-82d6-8c358a48ecad.png)
@@ -36,11 +34,11 @@
 HTML5, CSS3 , Sass , Bootstrap , JavaScript , TypeScript , jQuery , React , graphQl, Git , Figma , Adobe
 
 ```
- ⚙️ Herramientas
+ ⚙️ Y la herramientas que uso a diario
 ```
 
-![4wk15E tif](https://user-images.githubusercontent.com/70572595/114310543-550f7300-9aeb-11eb-8411-b58f9cc847cd.png) ,
-![github-logo-24](https://user-images.githubusercontent.com/70572595/114309840-edf0bf00-9ae8-11eb-8d0c-c7c934ba701c.png) , ![trello-logo-24](https://user-images.githubusercontent.com/70572595/114309931-41630d00-9ae9-11eb-8d3b-e4028c50440f.png) ,
-![slack-logo-24](https://user-images.githubusercontent.com/70572595/114309541-cb11db00-9ae7-11eb-85da-9c24e3115f08.png) , ![discord-logo-24](https://user-images.githubusercontent.com/70572595/114309551-d5cc7000-9ae7-11eb-9353-b4ad48e28f76.png) ,
+![4wk15E tif](https://user-images.githubusercontent.com/70572595/114310543-550f7300-9aeb-11eb-8411-b58f9cc847cd.png)
+![github-logo-24](https://user-images.githubusercontent.com/70572595/114309840-edf0bf00-9ae8-11eb-8d0c-c7c934ba701c.png) ![trello-logo-24](https://user-images.githubusercontent.com/70572595/114309931-41630d00-9ae9-11eb-8d3b-e4028c50440f.png)
+![slack-logo-24](https://user-images.githubusercontent.com/70572595/114309541-cb11db00-9ae7-11eb-85da-9c24e3115f08.png) ![discord-logo-24](https://user-images.githubusercontent.com/70572595/114309551-d5cc7000-9ae7-11eb-9353-b4ad48e28f76.png)
 
 VS-Code, GitHub, Trello, Slack, Discord, Notion,
